@@ -1,0 +1,4 @@
+﻿Numpy
+Pandas
+Scikt-learn
+joblib

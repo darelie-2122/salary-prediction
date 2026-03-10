@@ -1,5 +1,6 @@
 ﻿numpy
 pandas
-scikt-learn
+scikit-learn
 joblib
+
 

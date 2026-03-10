@@ -1,4 +1,5 @@
-﻿Numpy
-Pandas
-Scikt-learn
+﻿numpy
+pandas
+scikt-learn
 joblib
+
